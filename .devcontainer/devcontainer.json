@@ -1,0 +1,20 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/java
+{
+	"name": "python-playground",
+
+	// Use the Dev Container project pre-built Python image. Reference: https://github.com/devcontainers/images/tree/main/src/python
+	// Using this pre-built image is faster than using a base Debian image and then layering in Python in the Docker build
+	// process. 
+	"image": "mcr.microsoft.com/devcontainers/python:3.11",
+
+	// Configure tool-specific properties.
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				// "Python" VS Code extension https://marketplace.visualstudio.com/items?itemName=ms-python.python
+				"ms-python.python"
+			]
+		}
+	}
+}
