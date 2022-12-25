@@ -25,14 +25,14 @@ Follow these instructions to run the demo programs.
    `.devcontainer/devcontainer.json`. The dev container is pre-installed with the required Python version.
 2. Run the "Hello World" program
    * ```shell
-     python3 hello.py
+     python3 hello_world.py
      ```  
    * I'm using the `python3` name here instead of `python` because it's such a common convention. While you can get away
    with using the straight name `python` on some systems because that points to a Python 3 installation, that's not a safe
    assumption on other systems where `python` may point to a Python 2 installation.
    * Altogether, it should something like this:
      ```shell
-     $ python3 hello.py
+     $ python3 hello_world.py
      Hi there, from a Python program!
      ``` 
 3. Run the "read a JSON file" program
