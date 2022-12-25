@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Red Delicious",
+    "description": "A sweet apple with a dark red skin and elongated shape. One of the most widely cultivated apples in the world.",
+    "origin": "United States",
+    "flavor": "Sweet",
+    "color": "Red",
+    "shape": "Elongated"
+  },
+  {
+    "name": "Granny Smith",
+    "description": "A tart and crisp apple with a green skin and round shape. Originally developed in Australia.",
+    "origin": "Australia",
+    "flavor": "Tart",
+    "color": "Green",
+    "shape": "Round"
+  },
+  {
+    "name": "Golden Delicious",
+    "description": "A very sweet apple with yellowish-green skin and round shape. Originally developed in West Virginia, United States.",
+    "origin": "United States",
+    "flavor": "Sweet",
+    "color": "Yellow",
+    "shape": "Round"
+  },
+  {
+    "name": "Honeycrisp",
+    "description": "A crisp apple with a red and yellow skin and round shape. It was developed by the University of Minnesota.",
+    "origin": "United States",
+    "flavor": "Sweet",
+    "color": "Red and yellow",
+    "shape": "Round"
+  },
+  {
+    "name": "Braeburn",
+    "description": "A sweet and slightly tart apple with a red and yellow skin and oval shape. Originally developed in New Zealand.",
+    "origin": "New Zealand",
+    "flavor": "Sweet and slightly tart",
+    "color": "Red and yellow",
+    "shape": "Oval"
+  },
+  {
+    "name": "Gala",
+    "description": "A sweet, mild-flavored and crisp apple with a red skin and round shape. Originally developed in New Zealand.",
+    "origin": "New Zealand",
+    "flavor": "Sweet",
+    "color": "Green",
+    "shape": "Round"
+  },
+  {
+    "name": "Pink Lady",
+    "description": "A sweet-tart and tangy apple with a red and yellow skin and elongated shape. There are actually several apple cultivars that are branded as Pink Lady.",
+    "origin": "Australia",
+    "flavor": "Sweet-tart and tangy",
+    "color": "Red and yellow",
+    "shape": "Elongated"
+  }
+]

@@ -23,7 +23,7 @@ Follow these instructions to run the demo programs.
 1. Use Python 3.11
    * Alternatively, develop this project in a [*Dev Container*](https://containers.dev/) defined in
    `.devcontainer/devcontainer.json`. The dev container is pre-installed with the required Python version.
-2. Run the "hello world" program
+2. Run the "Hello World" program
    * ```shell
      python3 hello.py
      ```  
@@ -35,6 +35,10 @@ Follow these instructions to run the demo programs.
      $ python3 hello.py
      Hi there, from a Python program!
      ``` 
+3. Run the "read a JSON file" program
+   * ```shell
+     python3 read_json.py
+     ```
 
 
 ## Wish List
@@ -47,6 +51,7 @@ General TODOs and things I wish to implement in this project.
 * [ ] REPL example and instructions
 * [ ] Showcase type hints
 * [ ] What does modularization look like in Python? Is there a module system, or conventions?
+* [x] DONE Read from a JSON file.
 
 
 ## Reference
